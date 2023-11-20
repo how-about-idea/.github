@@ -1,5 +1,6 @@
-[![Video Label](https://github.com/how-about-idea/.github/assets/46237147/8db7ac2d-30ce-449e-b990-5760c88d0644)](https://www.youtube.com/embed/qPrlm67bWjA?list=PLFc3LmJBkhCB2A34-eQjzJ1n3a854jw_G){:target="_blank"}
+[![Video Label](https://github.com/how-about-idea/.github/assets/46237147/8db7ac2d-30ce-449e-b990-5760c88d0644)](https://www.youtube.com/embed/qPrlm67bWjA?list=PLFc3LmJBkhCB2A34-eQjzJ1n3a854jw_G)
 
+<a href="https://www.youtube.com/embed/qPrlm67bWjA?list=PLFc3LmJBkhCB2A34-eQjzJ1n3a854jw_G" target="_blank"><img src="https://github.com/how-about-idea/.github/assets/46237147/8db7ac2d-30ce-449e-b990-5760c88d0644"></a>
 # 프로젝트 명칭
 
 - How About Idea(HowAI)
@@ -46,7 +47,7 @@
 - 아이디어 별점 평가
 
 # 최종 발표 자료
-- [![최종 발표 자료](https://github.com/how-about-idea/.github/assets/46237147/1a112b56-8bd2-44a4-a2a5-1e96857bd1a3)](https://drive.google.com/file/d/119dObOe8rD849OheAUEFXvDlgzZbo2FR/view?usp=drive_link){:target="_blank"}
+[![최종 발표 자료](https://github.com/how-about-idea/.github/assets/46237147/1a112b56-8bd2-44a4-a2a5-1e96857bd1a3)](https://drive.google.com/file/d/119dObOe8rD849OheAUEFXvDlgzZbo2FR/view?usp=drive_link)
 
 # 투고 논문
-- [![투고 논문](https://github.com/how-about-idea/.github/assets/46237147/d491f3ee-7b4a-48f4-9756-b5f3b5ee1294)](http://jpee.org/MN/PUBLISH/Main_Publish_list.asp#){:target="_blank"}
+[![투고 논문](https://github.com/how-about-idea/.github/assets/46237147/d491f3ee-7b4a-48f4-9756-b5f3b5ee1294)](http://jpee.org/MN/PUBLISH/Main_Publish_list.asp#)
