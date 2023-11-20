@@ -63,9 +63,9 @@
 - 생성 아이디어 공유 게시판
 - 아이디어 별점 평가
 
-# 최종 발표 자료
-### 참고사항
-- Github의 readme.md에서는 새 창 열기가 지원되고 있지 않습니다. 아래의 삽입된 링크들은 __Ctrl + 클릭__ 을 통해 보시길 권장드립니다.   
+> Github의 readme.md에서는 새 창 열기가 지원되고 있지 않습니다. 아래의 삽입된 링크들은 __Ctrl + 클릭__ 을 통해 보시길 권장드립니다.
+
+# 최종 발표 자료   
 [![최종 발표 자료](https://github.com/how-about-idea/.github/assets/46237147/1a112b56-8bd2-44a4-a2a5-1e96857bd1a3)](https://drive.google.com/file/d/119dObOe8rD849OheAUEFXvDlgzZbo2FR/view?usp=drive_link)
 
 # 시연 영상
