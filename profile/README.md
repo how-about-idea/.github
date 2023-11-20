@@ -20,11 +20,23 @@
 - 2023.1. ~ 2023.5.
 
 # 기술 스택
+### Environment
+<img src="https://img.shields.io/badge/visualstudiocode-#007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-- FrontEnd: React.js
-- BackEnd: Spring boot
-- AI: mini-GPT, Flask
-  - 학습 데이터: 특허청 제목 데이터
+### Development
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+
+### Communication
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/discord-#5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/googlesheet-#34A853?style=for-the-badge&logo=googlesheetd&logoColor=white">
 
 # 시스템 구조도
 ![시스템 구조도](https://github.com/how-about-idea/.github/assets/46237147/42b5f496-2cb2-446a-a079-2a1e17dd8dab)
@@ -40,12 +52,13 @@
 # 부가 기능
 
 - 연관 단어 시각화(마인드맵 형태)
+- 유사 특허 목록 출력
 - 생성 아이디어 공유 게시판
 - 아이디어 별점 평가
 
 # 최종 발표 자료
 ### 참고사항
-- Github의 readme.md에서는 새 창 열기가 지원되고 있지 않습니다. 아래의 삽입된 링크들은 __Ctrl + 클릭__을 통해 보시길 권장드립니다.
+- Github의 readme.md에서는 새 창 열기가 지원되고 있지 않습니다. 아래의 삽입된 링크들은 __Ctrl + 클릭__ 을 통해 보시길 권장드립니다.   
 [![최종 발표 자료](https://github.com/how-about-idea/.github/assets/46237147/1a112b56-8bd2-44a4-a2a5-1e96857bd1a3)](https://drive.google.com/file/d/119dObOe8rD849OheAUEFXvDlgzZbo2FR/view?usp=drive_link)
 
 # 시연 영상
