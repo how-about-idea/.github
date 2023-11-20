@@ -46,8 +46,7 @@
 - 아이디어 별점 평가
 
 # 최종 발표 자료
-
-- ![https://github.com/how-about-idea/.github/assets/46237147/386acd32-6c75-4866-9040-f8175c83d14e](https://drive.google.com/file/d/119dObOe8rD849OheAUEFXvDlgzZbo2FR/view?usp=drive_link)
+- ![(https://github.com/how-about-idea/.github/assets/46237147/1a112b56-8bd2-44a4-a2a5-1e96857bd1a3)](https://drive.google.com/file/d/119dObOe8rD849OheAUEFXvDlgzZbo2FR/view?usp=drive_link)
 
 # 투고 논문
-- ![https://github.com/how-about-idea/.github/assets/46237147/d491f3ee-7b4a-48f4-9756-b5f3b5ee1294)](http://jpee.org/MN/PUBLISH/Main_Publish_list.asp#)
+- ![(https://github.com/how-about-idea/.github/assets/46237147/d491f3ee-7b4a-48f4-9756-b5f3b5ee1294)](http://jpee.org/MN/PUBLISH/Main_Publish_list.asp#)
