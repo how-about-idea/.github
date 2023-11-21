@@ -12,7 +12,7 @@
 
 | 이상영 | 유창민 | 홍기범 | 오준혁 |
 |:--------:|:--------:|:--------:|:--------:|
-|![이상영_사진](https://github.com/how-about-idea/.github/assets/46237147/d657018a-533a-469e-83c7-894fbd2e739c)|![유창민_사진](https://github.com/how-about-idea/.github/assets/46237147/bf8acbdb-fdbd-4a3f-bb11-0da878cafa2b)|![홍기범_사진](https://github.com/how-about-idea/.github/assets/46237147/d3240ced-1b15-49ba-98c6-ca602d7d917f)|![오준혁_사진](https://github.com/how-about-idea/.github/assets/46237147/6508ae28-983c-4fce-bdb5-c2253dff4a75)|
+|![이상영_사진](https://github.com/how-about-idea/.github/assets/46237147/d657018a-533a-469e-83c7-894fbd2e739c)|![유창민_증명사진_수정](https://github.com/how-about-idea/.github/assets/46237147/afc8d2e8-f566-409c-a91f-699d42a0d722)|![홍기범_사진](https://github.com/how-about-idea/.github/assets/46237147/5153a688-cb83-4264-9ef7-589e45a7eeb3)|![오준혁_사진](https://github.com/how-about-idea/.github/assets/46237147/69d65503-d31e-4b83-abb9-93382be53e7e)|
 |팀장, FE 구현|DB 설게 및 BE 구현|FE 및 BE 구현|AI 구현|
 
 # 진행 기간
